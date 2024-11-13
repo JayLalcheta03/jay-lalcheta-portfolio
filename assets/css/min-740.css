@@ -1,0 +1,17 @@
+@media (max-width: 740px) {
+  .hero-section {
+    flex-direction: column-reverse;
+  }
+  .hero-section .headshot img {
+    width: 300px;
+  }
+  .testinony-section {
+    text-align: center;
+  }
+  .testinony-section .group {
+    flex-direction: column;
+  }
+  .contact-section .group {
+    flex-direction: column;
+  }
+}
